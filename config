@@ -82,8 +82,8 @@ bindsym $mod+Ctrl+x --release exec --no-startup-id xkill
 # change focus
 bindsym $mod+j focus left
 bindsym $mod+k focus right
-bindsym Shift+$mod+l focus down
-bindsym Shift+$mod+h focus up
+bindsym $mod+l+p focus down
+bindsym $mod+h+p focus up
 bindsym $mod+semicolon focus right
 
 # alternatively, you can use the cursor keys:
